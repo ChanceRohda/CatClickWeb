@@ -165,11 +165,9 @@ export default function Footer() {
           <NavCol>
             <FooterHeading>Policy</FooterHeading>
             <FooterNav>
+              
               <li>
-                <NavLink to="/terms">Terms and Conditions</NavLink>
-              </li>
-              <li>
-                <NavLink to="/privacy">Privacy Policy</NavLink>
+                <FooterLink href="https://www.privacypolicygenerator.info/live.php?token=FEZtPa69PbOTJSGH3K9nLqTtYfywWJAI">Privacy Policy</FooterLink>
               </li>
               <li>
                 <NavLink to="/support">Support</NavLink>
